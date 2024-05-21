@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(184, 241, 238);
+}
+
+  
+@media (max-width: 412px) {
+        
+.input-group {
+    margin-bottom: 20px;
+        }
+      }
+
+h1 {
+    
+    color: rgb(42, 38, 38);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#seuraa {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+
+}
+
