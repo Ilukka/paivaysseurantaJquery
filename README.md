@@ -1,2 +1,2 @@
 # paivaysseurantaJquery
-Javascript-kurssin projekti 2b, jossa päiväysseuranta sovellus on tehty käyttäen apuna Jquery-kirjastoa. Sovellukseen lisätty animoidut sarakkeen lisäykset.
+Javascript-kurssin projekti 2b, jossa päiväysseuranta sovellus on tehty käyttäen apuna Jquery-kirjastoa. Sovellukseen lisätty animoidut sarakkeen lisäykset. Netlifyssa osoiteessa: https://paivaysseurantajquery.netlify.app
